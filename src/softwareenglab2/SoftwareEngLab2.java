@@ -23,7 +23,7 @@ public class SoftwareEngLab2 {
     public static void printMessage() {
         System.out.println("This lab is an enormous amount of fun");
     }
-    // trying to comit 
+    // trying to commit 
     public static void printReply() {
         System.out.println("Indeed, it is an enormous amount of fun");
     }
