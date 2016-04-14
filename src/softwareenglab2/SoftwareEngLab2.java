@@ -21,7 +21,7 @@ public class SoftwareEngLab2 {
     }
     
     public static void printMessage() {
-        System.out.println("This lab is an enormous amount of fun");
+        System.out.println("This is Chris's version of the message");
     }
     // trying to commit 
     public static void printReply() {
