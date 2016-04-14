@@ -23,6 +23,10 @@ public class SoftwareEngLab2 {
     public static void printMessage() {
         System.out.println("This lab is an enormous amount of fun");
     }
+    // trying to commit 
+    public static void printReply() {
+        System.out.println("Indeed, it is an enormous amount of fun");
+    }
     
     public static void printDisclaimer() {
         System.out.println("This is a disclaimer");
