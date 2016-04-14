@@ -24,4 +24,8 @@ public class SoftwareEngLab2 {
         System.out.println("This lab is an enormous amount of fun");
     }
     
+    public static void printDisclaimer() {
+        System.out.println("This is a disclaimer");
+    }
+    
 }
