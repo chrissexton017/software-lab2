@@ -31,8 +31,12 @@ public class SoftwareEngLab2 {
     //commit from suraj
     public static void printOverSlept() {
         System.out.println("Hey guys, Sorry I am going to be late - Suraj");
+    }
+    
     public static void printDisclaimer() {
         System.out.println("This is a disclaimer");
     }
-    
+    public static void printTest(){
+        System.out.println("Did you got it");
+    }
 }
