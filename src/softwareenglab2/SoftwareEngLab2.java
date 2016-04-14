@@ -28,4 +28,9 @@ public class SoftwareEngLab2 {
         System.out.println("Indeed, it is an enormous amount of fun");
     }
     
+    //commit from suraj
+    public static void printOverSlept() {
+        System.out.println("Hey guys, Sorry I am going to be late - Suraj");
+    }
+    
 }
