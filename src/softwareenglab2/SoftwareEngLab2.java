@@ -36,5 +36,7 @@ public class SoftwareEngLab2 {
     public static void printDisclaimer() {
         System.out.println("This is a disclaimer");
     }
-    
+    public static void printTest(){
+        System.out.println("Did you got it");
+    }
 }
